@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|c:\\users\\competidor53\\desktop\\api_delivery\\api_delivery\\controllers\\entregadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|solutionrelative:api_delivery\\controllers\\entregadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|c:\\users\\competidor53\\desktop\\api_delivery\\api_delivery\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|solutionrelative:api_delivery\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|c:\\users\\competidor53\\desktop\\api_delivery\\api_delivery\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|solutionrelative:api_delivery\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|c:\\users\\competidor53\\desktop\\api_delivery\\api_delivery\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|solutionrelative:api_delivery\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|c:\\users\\competidor53\\desktop\\api_delivery\\api_delivery\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|solutionrelative:api_delivery\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|c:\\users\\competidor53\\desktop\\api_delivery\\api_delivery\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|solutionrelative:api_delivery\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|c:\\users\\competidor53\\desktop\\api_delivery\\api_delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|solutionrelative:api_delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|c:\\users\\competidor53\\desktop\\api_delivery\\api_delivery\\models\\dbdeliverycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16642522-2219-4E61-91D9-1475953D84F5}|API_Delivery\\API_Delivery.csproj|solutionrelative:api_delivery\\models\\dbdeliverycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntregadorController.cs",
+              "DocumentMoniker": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Controllers\\EntregadorController.cs",
+              "RelativeDocumentMoniker": "API_Delivery\\Controllers\\EntregadorController.cs",
+              "ToolTip": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Controllers\\EntregadorController.cs*",
+              "RelativeToolTip": "API_Delivery\\Controllers\\EntregadorController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T17:28:17.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "API_Delivery\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "API_Delivery\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T17:17:03.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "API_Delivery\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "API_Delivery\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T17:11:38.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "API_Delivery\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Models\\Usuario.cs",
+              "RelativeToolTip": "API_Delivery\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T16:52:58.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "API_Delivery\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "API_Delivery\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T15:35:05.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_Delivery\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_Delivery\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-23T15:34:11.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbDeliveryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Models\\DbDeliveryContext.cs",
+              "RelativeDocumentMoniker": "API_Delivery\\Models\\DbDeliveryContext.cs",
+              "ToolTip": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Models\\DbDeliveryContext.cs",
+              "RelativeToolTip": "API_Delivery\\Models\\DbDeliveryContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCkAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T15:33:08.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Program.cs",
+              "RelativeDocumentMoniker": "API_Delivery\\Program.cs",
+              "ToolTip": "C:\\Users\\Competidor53\\Desktop\\API_Delivery\\API_Delivery\\Program.cs",
+              "RelativeToolTip": "API_Delivery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T15:24:26.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
